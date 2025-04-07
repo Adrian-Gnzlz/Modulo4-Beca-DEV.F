@@ -7,6 +7,13 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 4
 
 ### Clase01: Introducción a ECMAScript.
 > # Entregables:
+> Se tendrán tres archivos. 
+> - Para la práctica de esta clase:
+>   - index.js
+>   - viajes.js
+> - Ejercicio de clase:
+>   - ejercicioClase.js
+
 > Aplicar características básicas de ECMAScript (ES6+) en un proyecto sencillo de planificación de viajes.
 > - Registrar destinos y fechas del viaje.
 > - Calcular el costo del viaje según destino y transporte elegido.
