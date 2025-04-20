@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Compras",
+    "contenido": "Comprar leche y pan."
+  },
+  {
+    "titulo": "Viaje",
+    "contenido": "Comprar boletos de avión."
+  },
+  {
+    "titulo": "Salud",
+    "contenido": "Programar cita con el dentista."
+  }
+]
